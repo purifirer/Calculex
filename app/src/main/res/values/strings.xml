@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">calculex</string>
+    <string name="numero_1">Ingrese Numero 1</string>
+    <string name="numero_2">Ingrese Numero 2</string>
+    <string name="sca_2">sca</string>
+    <string name="suma">SUMA</string>
+    <string name="resta">RESTA</string>
+    <string name="mult">MULT</string>
+    <string name="division">DIVISION</string>
+    <string name="reset">RESET</string>
+    <string name="placeholder0">0</string>
+    <string name="_0">0</string>
+    <string name="New">New</string>
+</resources>

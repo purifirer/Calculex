@@ -1,0 +1,6 @@
+
+<resources>
+
+  <dimen name="fav_margin">16dp</dimen>
+    <dimen name="resultado">100sp</dimen>
+</resources>
